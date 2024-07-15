@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "name": "Favourite Music",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Paint my love",
+            "duration": 180,
+            "genre": "Pop"
+         },
+         {
+            "id": 2,
+            "name": "Song Rock",
+            "duration": 120,
+            "genre": "Rock"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Rock Collection",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Rock songs",
+            "duration": 135,
+            "genre": "Rock"
+         }
+      ]
+   }
+]
